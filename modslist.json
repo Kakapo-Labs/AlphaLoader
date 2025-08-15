@@ -27,5 +27,35 @@
     ],
     "downloadUrl": "https://www.dropbox.com/scl/fi/9lwd74srolztkl6v9ih9d/ball-akatsukie.zip?rlkey=l6hm3av4sft1iub1pw7kp70zj&st=g7oti39t&dl=1",
     "category": "balls"
+},
+    {
+    "name": "Brutal Team 37 Ball Texture",
+    "id": "brutal-team-37-ball-texture",
+    "description": "Ingame Ball texture for Brutal Team 37 ( ͡° ͜ʖ ͡°)   Join us https://discord.gg/eVaAFRU8",
+    "author": "Slapnuts",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/brutal-team-37-ball-texture/",
+    "images": [
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1000012/1624294824_BT37-Ball-1920-x1080-1200x675.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1000012/1624294869_treee-1200x675.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1000012/1624294884_too-1200x675.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1000012/1624294903_wan-1200x675.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/zmla0x4fa92h0qv0zve3n/Brutal-Team-37-Ball-Texture.rar?rlkey=odnivd4r9np76hu2kw171yy81&st=vs7mhgul&dl=1",
+    "category": "balls"
+},
+    {
+    "name": "ConCon – Space Ball",
+    "id": "concon-space-ball",
+    "description": "Space texture with special faces.",
+    "author": "Concon",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/concon-space-ball/",
+    "images": [
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1006057/1669572209_Screenshot_20221127_095103.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1006057/1669572217_Screenshot_20221127_095107.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1006057/1669572235_Screenshot_20221127_095134.png",
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1006057/1669572243_Screenshot_20221127_100110.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/dr4g7eiy1ha5gg5er24b3/ConCon-Space-Ball.png?rlkey=sssm796da5tujf9b1xri2hs55&st=b76e8d9s&dl=1",
+    "category": "balls"
 }
 ]
