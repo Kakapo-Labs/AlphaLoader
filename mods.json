@@ -1,126 +1,25 @@
 [
-                    {
-                        id: "pulse-x-thrustmaster",
-                        name: "Pulse X Thrustmaster",
-                        description: "Tournament edition with multiple vibrant colors and advanced visual effects",
-                        author: "TournamentMaster",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/6a11cb/ffffff?text=Pulse+X+1",
-                            "https://placehold.co/400x200/2575fc/ffffff?text=Pulse+X+2"
-                        ],
-                        downloadUrl: "https://www.dropbox.com/scl/fi/pclt1d3b2gsq12x2mrqq2/Pulse-x-Thrustmaster-Tournament-Rocket-League-Ball-Multiple-Colors-Available.zip?rlkey=kgp1vahcmumghgbm7pu7fhpz4&st=wwjj9ecp&dl=1",
-                        installed: false
-                    }
-                    {
-                        id: "neon-wave",
-                        name: "Neon Wave",
-                        description: "Electric neon effects with wave patterns and glowing animations",
-                        author: "NeonDesigner",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/ff00cc/ffffff?text=Neon+Wave"
-                        ],
-                        downloadUrl: "https://example.com/neon_wave.zip",
-                        installed: false
-                    },
-                    {
-                        id: "galaxy",
-                        name: "Galaxy Ball",
-                        description: "Cosmic design with stars and nebulae effects",
-                        author: "SpaceArtist",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/3f51b5/ffffff?text=Galaxy+1",
-                            "https://placehold.co/400x200/9c27b0/ffffff?text=Galaxy+2",
-                            "https://placehold.co/400x200/673ab7/ffffff?text=Galaxy+3"
-                        ],
-                        downloadUrl: "https://example.com/galaxy.zip",
-                        installed: false
-                    },
-                    {
-                        id: "fire",
-                        name: "Fire Ball",
-                        description: "Burning hot with flame effects and dynamic animations",
-                        author: "PyroModder",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/f44336/ffffff?text=Fire+Ball"
-                        ],
-                        downloadUrl: "https://example.com/fire.zip",
-                        installed: false
-                    },
-                    {
-                        id: "ice",
-                        name: "Ice Crystal",
-                        description: "Frozen design with crystal formations and frost effects",
-                        author: "FrostyCreations",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/03a9f4/ffffff?text=Ice+1",
-                            "https://placehold.co/400x200/00bcd4/ffffff?text=Ice+2"
-                        ],
-                        downloadUrl: "https://example.com/ice.zip",
-                        installed: false
-                    },
-                    {
-                        id: "golden",
-                        name: "Golden Ball",
-                        description: "Luxurious golden design with shine effects",
-                        author: "LuxuryModder",
-                        category: "balls",
-                        images: [
-                            "https://placehold.co/400x200/ffd700/000000?text=Golden+Ball"
-                        ],
-                        downloadUrl: "https://example.com/gold.zip",
-                        installed: false
-                    },
-                    {
-                        id: "neon-decal",
-                        name: "Neon Decal",
-                        description: "Vibrant neon patterns for your car with glowing effects",
-                        author: "NeonDesigner",
-                        category: "decals",
-                        images: [
-                            "https://placehold.co/400x200/ff00cc/ffffff?text=Neon+Decal"
-                        ],
-                        downloadUrl: "https://example.com/neon_decal.zip",
-                        installed: false
-                    },
-                    {
-                        id: "galaxy-decal",
-                        name: "Galaxy Decal",
-                        description: "Space-themed decal with cosmic patterns",
-                        author: "SpaceArtist",
-                        category: "decals",
-                        images: [
-                            "https://placehold.co/400x200/3f51b5/ffffff?text=Galaxy+Decal"
-                        ],
-                        downloadUrl: "https://example.com/galaxy_decal.zip",
-                        installed: false
-                    },
-                    {
-                        id: "tournament-banner",
-                        name: "Tournament Banner",
-                        description: "Professional tournament player banner with championship design",
-                        author: "TournamentMaster",
-                        category: "banners",
-                        images: [
-                            "https://placehold.co/400x200/6a11cb/ffffff?text=Tournament+Banner"
-                        ],
-                        downloadUrl: "https://example.com/tournament_banner.zip",
-                        installed: false
-                    },
-                    {
-                        id: "champion-icon",
-                        name: "Champion Icon",
-                        description: "Victory icon for champions with golden crown design",
-                        author: "TrophyDesigner",
-                        category: "icons",
-                        images: [
-                            "https://placehold.co/400x200/ffd700/000000?text=Champion+Icon"
-                        ],
-                        downloadUrl: "https://example.com/champion_icon.zip",
-                        installed: false
-                    }
-                ];
+    {
+        "id": "pulse-x-thrustmaster",
+        "name": "Pulse X Thrustmaster",
+        "description": "Tournament edition with multiple vibrant colors and advanced visual effects",
+        "author": "TournamentMaster",
+        "category": "balls",
+        "images": [
+            "https://placehold.co/400x200/6a11cb/ffffff?text=Pulse+X+1",
+            "https://placehold.co/400x200/2575fc/ffffff?text=Pulse+X+2"
+        ],
+        "downloadUrl": "https://www.dropbox.com/scl/fi/pclt1d3b2gsq12x2mrqq2/Pulse-x-Thrustmaster-Tournament-Rocket-League-Ball-Multiple-Colors-Available.zip?rlkey=kgp1vahcmumghgbm7pu7fhpz4&st=wwjj9ecp&dl=1"
+    },
+    {
+        "id": "neon-wave",
+        "name": "Neon Wave",
+        "description": "Electric neon effects with wave patterns and glowing animations",
+        "author": "NeonDesigner",
+        "category": "balls",
+        "images": [
+            "https://placehold.co/400x200/ff00cc/ffffff?text=Neon+Wave"
+        ],
+        "downloadUrl": "https://example.com/neon_wave.zip"
+    }
+]
