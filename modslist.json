@@ -16,16 +16,16 @@
         ],
         "downloadUrl": "https://www.dropbox.com/scl/fi/pclt1d3b2gsq12x2mrqq2/Pulse-x-Thrustmaster-Tournament-Rocket-League-Ball-Multiple-Colors-Available.zip?rlkey=kgp1vahcmumghgbm7pu7fhpz4&st=wwjj9ecp&dl=1"
     },
-    {
-        "id": "neon-wave",
-        "name": "Neon Wave",
-        "description": "Electric neon effects with wave patterns and glowing animations",
-        "author": "NeonDesigner",
-        "authorUrl": "https://www.example.com/tournamentmaster",
-        "category": "balls",
-        "images": [
-            "https://placehold.co/400x200/ff00cc/ffffff?text=Neon+Wave"
-        ],
-        "downloadUrl": "https://example.com/neon_wave.zip"
-    }
+{
+    "name": "ball akatsukie",
+    "id": "ball-akatsukie",
+    "description": "ball akatsukie.",
+    "author": "AkyLzi",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/ball-akatsukie/",
+    "images": [
+        "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1010608/1688143493_Rocket-League-64-bit-DX11-Cooked-2023-06-30-12_40_31.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/9lwd74srolztkl6v9ih9d/ball-akatsukie.zip?rlkey=l6hm3av4sft1iub1pw7kp70zj&st=g7oti39t&dl=1",
+    "category": "balls"
+}
 ]
