@@ -1,4 +1,4 @@
-const mods = [
+[
                     {
                         id: "pulse-x-thrustmaster",
                         name: "Pulse X Thrustmaster",
