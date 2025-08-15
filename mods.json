@@ -3,11 +3,15 @@
         "id": "pulse-x-thrustmaster",
         "name": "Pulse X Thrustmaster",
         "description": "Tournament edition with multiple vibrant colors and advanced visual effects",
-        "author": "TournamentMaster",
+        "author": "Nightmare",
         "category": "balls",
         "images": [
-            "https://placehold.co/400x200/6a11cb/ffffff?text=Pulse+X+1",
-            "https://placehold.co/400x200/2575fc/ffffff?text=Pulse+X+2"
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610059018_Pulse-Cotton-Candy.PNG",
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610059488_Pulse-yellow.PNG",
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610059776_Pulse-red.PNG",
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610060055_pulse-blue.PNG",
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610060237_pulse-green.PNG",
+            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/171176/1610060396_pulse-purple.PNG",
         ],
         "downloadUrl": "https://www.dropbox.com/scl/fi/pclt1d3b2gsq12x2mrqq2/Pulse-x-Thrustmaster-Tournament-Rocket-League-Ball-Multiple-Colors-Available.zip?rlkey=kgp1vahcmumghgbm7pu7fhpz4&st=wwjj9ecp&dl=1"
     },
