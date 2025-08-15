@@ -11,7 +11,7 @@
                         ],
                         downloadUrl: "https://www.dropbox.com/scl/fi/pclt1d3b2gsq12x2mrqq2/Pulse-x-Thrustmaster-Tournament-Rocket-League-Ball-Multiple-Colors-Available.zip?rlkey=kgp1vahcmumghgbm7pu7fhpz4&st=wwjj9ecp&dl=1",
                         installed: false
-                    },
+                    }
                     {
                         id: "neon-wave",
                         name: "Neon Wave",
