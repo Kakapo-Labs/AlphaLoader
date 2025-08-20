@@ -904,18 +904,6 @@
         "category": "balls"
     },
     {
-        "name": "Redbull Ball",
-        "id": "redbull-ball-1018379",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/redbull-ball-1018379/",
-        "description": "Enjoy it for free, but if want to support me you can add a tip <3 Profitez-en gratuitement, mais si vous voulez me soutenir, vous pouvez laisser un pourboire <3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ To install it, just extract the zip folder in -> bakkesmod/bakkesmod/data/acplugin/BallTextures (there is a lot of YT tutorials) Pour l'installer dezippez le fichier dans le dossier balltextures -> bakkesmod/bakkesmod/data/acplugin/BallTextures (Y'a pleins de tuto si vous gal\u00e9rez).",
-        "author": "Rezz",
-        "images": [
-            "https://uploads.videogamemods.com/sites/12/2025/02/1739727390_photoredbull2.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
         "name": "Rocket League Ball",
         "id": "rocket-league-ball",
         "authorUrl": "https://videogamemods.com/rocketleague/mods/rocket-league-ball/",
@@ -978,18 +966,6 @@
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1008202/1676166452_ser.PNG",
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1008202/1676166319_Capture.PNG",
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1008202/1676166343_M_SirolaloBall_Albedo-1200x1200.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
-        "name": "Black Ice Ball Texture/Decal Rocket League",
-        "id": "black-ice-ball-texturedecal-rocket-league-1015163",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/black-ice-ball-texturedecal-rocket-league-1015163/",
-        "description": "Black Ice ball skin for rocket league inspired by black ice gun skin in Tom Clancy's Rainbow Six Siege.",
-        "author": "ThomasTV",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1015163/1722128343_Blackiceball2.png"
         ],
         "downloadUrl": "INSERT LATER",
         "category": "balls"
@@ -1387,18 +1363,6 @@
         "category": "balls"
     },
     {
-        "name": "Fireball Ball",
-        "id": "fireball-ball-1017716",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/fireball-ball-1017716/",
-        "description": "This mod is used via the AlphaConsole plugin on Bakkesmod.",
-        "author": "ThomasTV",
-        "images": [
-            "https://uploads.videogamemods.com/sites/12/2025/01/1737329279_fireball-pic.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
         "name": "Wellerman Custom Ball!",
         "id": "wellerman-custom-ball",
         "authorUrl": "https://videogamemods.com/rocketleague/mods/wellerman-custom-ball/",
@@ -1652,18 +1616,6 @@
         "category": "balls"
     },
     {
-        "name": "Sunset Ball Mod for Rocket League",
-        "id": "sunset-ball-mod-for-rocket-league-1015283",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/sunset-ball-mod-for-rocket-league-1015283/",
-        "description": "Sunset Ball Mod for Rocket League used with alphaconsole in bakkesmod.",
-        "author": "ThomasTV",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1015283/1722888278_sunsetball-pic.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
         "name": "Loud Decals",
         "id": "loud-decals-1015696",
         "authorUrl": "https://videogamemods.com/rocketleague/mods/loud-decals-1015696/",
@@ -1877,18 +1829,6 @@
         "images": [
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1009653/1682086199_20230421085934_1-1200x675.jpg",
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1009653/1682086211_20230421085842_1-1200x675.jpg"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
-        "name": "Sunset ocean tropical ball",
-        "id": "sunset-ocean-tropical-ball",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/sunset-ocean-tropical-ball/",
-        "description": "Made by ThomasTropical on all socials.",
-        "author": "ThomasTV",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1010743/1688782850_Screenshot-2023-07-07-222037.png"
         ],
         "downloadUrl": "INSERT LATER",
         "category": "balls"
