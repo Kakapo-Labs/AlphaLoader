@@ -464,22 +464,6 @@
         "category": "balls"
     },
     {
-        "name": "Galaxy ball, RL ball, Lava ball, Math ball",
-        "id": "galaxy-ball-rl-ball-lava-ball-math-ball",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/galaxy-ball-rl-ball-lava-ball-math-ball/",
-        "description": "Custom rocket league ball desings You get all 4 balls.",
-        "author": "An6reas",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013684/1712264569_ball-all.png",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013684/1712264582_wad.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013684/1712264594_lball.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013684/1712264600_ball-213.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013684/1712264608_rl-ball.PNG"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
         "name": "SoulPinkPreset",
         "id": "soulpinkpreset-1017303",
         "authorUrl": "https://videogamemods.com/rocketleague/mods/soulpinkpreset-1017303/",
