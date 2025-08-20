@@ -587,24 +587,6 @@
         "category": "balls"
     },
     {
-        "name": "Galaxy ball bundle- galaxy balls in 6 diffrent colors",
-        "id": "galaxy-ball-bundle-galaxy-balls-in-6-diffrent-colors",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/galaxy-ball-bundle-galaxy-balls-in-6-diffrent-colors/",
-        "description": "Custom rocket league ball desings You get all 6 balls.",
-        "author": "An6reas",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359239_galaxy-all.png",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359247_galaxy-o.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359250_galaxy2.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359253_galaxy-b.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359256_galaxy-c.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359261_galaxy-p.PNG",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013793/1713359264_galaxy-r.PNG"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
         "name": "Heart Ball and Goal Texture",
         "id": "heart-ball-and-goal-texture",
         "authorUrl": "https://videogamemods.com/rocketleague/mods/heart-ball-and-goal-texture/",
@@ -687,37 +669,6 @@
         "author": "Insanepyromaniac",
         "images": [
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1010638/1688310922_image_2023-07-02_161533234.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
-        "name": "Sussex Sharks Ball Mod",
-        "id": "sussex-sharks-ball-mod",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/sussex-sharks-ball-mod/",
-        "description": "A ball mod for Sussex University's Sussex Sharks team.",
-        "author": "Kaizen.",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1003447/1645752825_ssxball-1200x675.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
-        "name": "7 galaxy balls",
-        "id": "7-galaxy-balls-1018100",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/7-galaxy-balls-1018100/",
-        "description": "Custom rocket league ball desings Download: You have to take the folders out of the zipfolder and put the folder under balltextures under bakkesmod.",
-        "author": "An6reas",
-        "images": [
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783109_ball-all-1200x663.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783116_dawd.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783121_1723848440_bgp1.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783124_1724499672_brg.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783128_1725724741_bgg.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783137_1720140303_bbg.png",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783147_14346345.PNG",
-            "https://uploads.videogamemods.com/sites/12/2025/02/1738783152_1726423374_yg-ball.png"
         ],
         "downloadUrl": "INSERT LATER",
         "category": "balls"
@@ -881,19 +832,6 @@
         "author": "Kaizen.",
         "images": [
             "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1013983/1715203821_balls4-1200x675.png"
-        ],
-        "downloadUrl": "INSERT LATER",
-        "category": "balls"
-    },
-    {
-        "name": "Galaxy Intersteller Nebula Ball Decal",
-        "id": "galaxy-intersteller-nebula-ball-decal-1015158",
-        "authorUrl": "https://videogamemods.com/rocketleague/mods/galaxy-intersteller-nebula-ball-decal-1015158/",
-        "description": "This mod is used via the AlphaConsole plugin on Bakkesmod.",
-        "author": "ThomasTV",
-        "images": [
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1015158/1722124599_galball.png",
-            "https://videogamemods.com/rocketleague/wp-content/uploads/sites/12/cmdm/1015158/1722124712_galball2.png"
         ],
         "downloadUrl": "INSERT LATER",
         "category": "balls"
