@@ -1,4 +1,231 @@
 [
+    {
+    "name": "RLCS boost meter",
+    "id": "rlcs-boost-meter-1022261",
+    "description": "It's not a perfect copy, but I made it as similar as I could.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/rlcs-boost-meter-1022261/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754937136_Desktop-Screenshot-2025.08.12-03.30.09.74.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/5jaeuh1pvgmrkpog624mc/RLCS-boost-meter.zip?rlkey=gefhxmz6v4vldg5polch1s9yc&dl=1",
+    "category": "boost-meter"
+},
+{
+    "name": "Boost GOJO",
+    "id": "boost-gojo-1022274",
+    "description": "Boost GOJO.",
+    "author": "MELZ DESIGN",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/boost-gojo-1022274/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754967995_image_2025-08-12_000636568.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/z9jhtvm9wgnbsbaelfpfp/BOOST-GOJO.rar?rlkey=a4ljnmvg6gy0aphvpu9ww0az2&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "BOOST SPIDERMAN",
+    "id": "boost-spiderman-1022245",
+    "description": "FREE.",
+    "author": "MELZ DESIGN",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/boost-spiderman-1022245/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754932017_Capture-decran-2025-08-11-134642.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/8r96x543qjdo8hno0ezoa/BOOST-SPIDERMAN.rar?rlkey=mlv18q8f1egyg6411s7xd1vk3&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "BOOST SPIDERMAN BLACK",
+    "id": "boost-spiderman-black-1022241",
+    "description": "FREE.",
+    "author": "MELZ DESIGN",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/boost-spiderman-black-1022241/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754931904_Capture-decran-2025-08-11-134607.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/fqangrylmhf8py4qk2ke8/BOOST-SPIDERMAN-Black.rar?rlkey=5iamno07f1qtl0avp08yn4jrk&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "鬼滅の刃　Demon Slayer",
+    "id": "%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83%e3%80%80demon-slayer-1022215",
+    "description": "Boost gauge.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83%e3%80%80demon-slayer-1022215/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616376_Desktop-Screenshot-2025.08.08-10.07.11.44.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616387_1.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616393_2.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616399_3.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616404_4.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616408_5.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616413_6.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754616418_7.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754887724_Rocket-League-Screenshot-2025.08.11-13.46.43.22.png",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754887729_Rocket-League-Screenshot-2025.08.11-13.46.48.97.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/tdejj4jwwan3utlarir56/Demon-Slayer.zip?rlkey=l6lgx9407fuxis4b35kebw8j3&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "sweet kirby boost",
+    "id": "sweet-kirby-boost-1022180",
+    "description": "Kirby keeps sucking up and spitting out snacks.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/sweet-kirby-boost-1022180/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754606631_kabi-frame-at-0m1s.jpg",
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754606635_kabi-frame-at-0m10s.jpg"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/jzvr0cbpjrnj80gg5rcdj/sweet-kirby-boost.zip?rlkey=6b0a5h4ag89annufxi0009m95&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "car meter",
+    "id": "car-meter-1022094",
+    "description": "Car meter boost gauge.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/car-meter-1022094/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/08/1754347828_Desktop-Screenshot-2025.08.03-14.39.13.45.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/v18nhviuy6mmwwohx2pns/car-meter.zip?rlkey=rxmi7iluf3adktukpd77y7lus&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "sakura boost gauge 2",
+    "id": "sakura-boost-gauge-2-1021764",
+    "description": "私にリクエストしたいデザインがあれば、コメントを残してください。 料金はかかりません.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/sakura-boost-gauge-2-1021764/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753478278_Rocket-League-Screenshot-2025.07.26-06.13.37.27.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/r7li0214t6a11c23ov7rv/sakura-boost-gauge-2.zip?rlkey=1cckr6j10im4sp5sfn8s86vuo&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "Pro team boost gauge",
+    "id": "pro-team-boost-gauge-1021662",
+    "description": "If you have any designs that you would like to request from me, please leave a comment There is no charge.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/pro-team-boost-gauge-1021662/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236873_Rocket-League-Screenshot-2025.07.23-08.57.48.82.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236877_Rocket-League-Screenshot-2025.07.23-08.57.58.96.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236882_Rocket-League-Screenshot-2025.07.23-08.58.07.15.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236886_Rocket-League-Screenshot-2025.07.23-08.58.12.54.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236890_Rocket-League-Screenshot-2025.07.23-08.58.17.60.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236894_Rocket-League-Screenshot-2025.07.23-08.58.24.62.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236899_Rocket-League-Screenshot-2025.07.23-08.59.00.30.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236904_Rocket-League-Screenshot-2025.07.23-08.59.06.74.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236908_Rocket-League-Screenshot-2025.07.23-08.59.18.22.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236912_Rocket-League-Screenshot-2025.07.23-08.59.24.57.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753236917_Rocket-League-Screenshot-2025.07.23-09.04.28.83.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/r9uk24y7zdqs2izestiru/Pro-team-boost-gauge.zip?rlkey=phog08dam96ghqsluwdrevxbo&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "Dragon Ball",
+    "id": "dragon-ball-1021674",
+    "description": "Dragon Ball boost decal textures.",
+    "author": "Yoza",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/dragon-ball-1021674/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247178_Rocket_League_Screenshot_2025.07.18_-_19.47.58.99.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247182_Rocket_League_Screenshot_2025.07.18_-_18.52.17.36.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247186_Rocket_League_Screenshot_2025.07.18_-_18.52.08.76.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247190_Rocket_League_Screenshot_2025.07.18_-_18.51.52.36.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247194_Rocket_League_Screenshot_2025.07.18_-_18.51.42.56.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753247198_Rocket_League_Screenshot_2025.07.18_-_19.48.07.14.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/26aum7j80zchgs0mhfup9/Dragon-Ball.zip?rlkey=9gm9d3o59wcj12e1vzac6o5mb&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "DB ball boost",
+    "id": "db-ball-boost-1021693",
+    "description": "It's a design with a ball inside the dragon   If you have any designs that you would like to request from me, please leave a comment There is no charge.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/db-ball-boost-1021693/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257320_Rocket-League-Screenshot-2025.07.23-16.46.33.99.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257334_Rocket-League-Screenshot-2025.07.23-16.45.51.76.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257337_Rocket-League-Screenshot-2025.07.23-16.45.56.79.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257340_Rocket-League-Screenshot-2025.07.23-16.46.01.46.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257344_Rocket-League-Screenshot-2025.07.23-16.46.05.41.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257348_Rocket-League-Screenshot-2025.07.23-16.46.09.29.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753257352_Rocket-League-Screenshot-2025.07.23-16.50.36.45.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/qrt11bemflgqvd4zvmen8/DB-ball-boost.zip?rlkey=tcrkk2klf90pv4wewt6i8c9a2&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "sakura boost gauge",
+    "id": "sakura-boost-gauge-1021714",
+    "description": "If you have any designs that you would like to request from me, please leave a comment There is no charge.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/sakura-boost-gauge-1021714/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753313954_Rocket-League-Screenshot-2025.07.24-08.29.05.54.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/4sse8t7s5i1wcou81h2u8/sakura-boost-gauge.zip?rlkey=nh9rdpam82wyx40hzaxl57xf5&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "Rank boost",
+    "id": "rank-boost-1021736",
+    "description": "グランドチャンピオンとSSLのみが多様性を増している.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/rank-boost-1021736/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403398_Rocket-League-Screenshot-2025.07.25-09.06.49.05.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403412_Rocket-League-Screenshot-2025.07.25-09.05.02.61.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403417_Rocket-League-Screenshot-2025.07.25-09.05.15.55.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403421_Rocket-League-Screenshot-2025.07.25-09.05.23.97.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403425_Rocket-League-Screenshot-2025.07.25-09.05.35.16.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403430_Rocket-League-Screenshot-2025.07.25-09.05.48.77.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403434_Rocket-League-Screenshot-2025.07.25-09.05.59.20.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403439_Rocket-League-Screenshot-2025.07.25-09.06.12.14.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403444_Rocket-League-Screenshot-2025.07.25-09.06.21.11.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753403448_Rocket-League-Screenshot-2025.07.25-09.06.29.89.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/pqc3o8r8xty1ie6454kce/Rank-boost.zip?rlkey=5fc5t7pgl23csj0o8sw9lx3ak&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "pokemon boost",
+    "id": "pokemon-boost-1021605",
+    "description": "キャラクターブースト.",
+    "author": "SELCIA",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/pokemon-boost-1021605/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226977_Rocket-League-Screenshot-2025.07.18-20.15.42.47.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226981_Rocket-League-Screenshot-2025.07.18-20.15.54.22.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226985_Rocket-League-Screenshot-2025.07.23-07.48.30.03.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226990_Rocket-League-Screenshot-2025.07.23-07.48.37.40.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226995_Rocket-League-Screenshot-2025.07.23-07.48.48.20.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753226999_Rocket-League-Screenshot-2025.07.23-08.10.03.17.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753227003_Rocket-League-Screenshot-2025.07.23-08.10.15.10.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753227007_Rocket-League-Screenshot-2025.07.23-08.10.20.47.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1753227012_Rocket-League-Screenshot-2025.07.23-08.10.26.55.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/g0x28a8n47io9l13u67wv/pokemon-boost.zip?rlkey=5bz2pr7ey1bu36oqdlfsmviop&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "Black Hope boost meter",
+    "id": "black-hope-boost-meter-1021503",
+    "description": "Here's my new decal I use and really like playing, it feels very confortable, feels free to download it and use it ! My decal is provided for free (just put 0 in \"name a fair price\" box) But please consider donating if you want me to make more!.",
+    "author": "XashDesign",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/black-hope-boost-meter-1021503/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/07/1752866216_Capture-decran-2025-07-18-173532.png",
+        "https://uploads.videogamemods.com/sites/12/2025/07/1752866220_Capture-decran-2025-07-18-173522.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/gabzqxowe0rmbcjwv40k0/Black-Hope.zip?rlkey=bpdh6jhwv9vslii1i3x2de80i&dl=1",
+    "category": "boost-meter"
+},{
+    "name": "Sakura Boost Meter",
+    "id": "sakura-boost-meter-1020466",
+    "description": "Extract from zip file -> open bakkes mod folder -> data -> acplugin -> boostmetertextures -> put the sakura folder in and youre done! Enjoy!! DM me on discord for any custom requests - nasagfx.",
+    "author": "Nasa",
+    "authorUrl": "https://videogamemods.com/rocketleague/mods/sakura-boost-meter-1020466/",
+    "images": [
+        "https://uploads.videogamemods.com/sites/12/2025/05/1748143584_Rocket-League-64-bit-DX11-Cooked-5_24_2025-11_25_30-PM.png"
+    ],
+    "downloadUrl": "https://www.dropbox.com/scl/fi/j6psqovbfcub9gm17erqv/Sakura-Boost-Meter.zip?rlkey=w4psbow6cyrwcecsr2ka8tjxk&dl=1",
+    "category": "boost-meter"
+},
 {
     "name": "sakura ball",
     "id": "sakura-ball-1021770",
