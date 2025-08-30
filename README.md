@@ -2,7 +2,7 @@
 
 ## About The Project
 
-AlphaLoader is a sleek and user-friendly desktop application designed to simplify the process of finding, downloading, and managing custom mods for Rocket League. It integrates seamlessly with BakkesMod to provide a smooth experience for players looking to customize their game.
+AlphaLoader is a sleek and user-friendly desktop application designed to simplify the process of finding, downloading, and managing AlphaConsole mods for Rocket League. It integrates seamlessly with BakkesMod to provide a smooth experience for players looking to customize their game.
 
 ## Features
 
@@ -29,7 +29,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Usage
 
-Launch AlphaLoader, browse the available mods, and click the "Install" button on any mod you wish to add to your game. To remove a mod, go to the "Installed" tab and click "Uninstall".
+Launch AlphaLoader, browse the available mods, and click the "Install" button on any mod you wish to add to your game. To remove a mod, click "Uninstall".
 
 ## How It Works
 
@@ -39,16 +39,4 @@ AlphaLoader is a Python application built with PyQt5 for the graphical user inte
 - **File Management:** It locates the appropriate BakkesMod data folders (`acplugin`) within your system's `APPDATA` or Steam library folders.
 - **Installation/Uninstallation:** It downloads the mod files (usually ZIP archives), extracts them, and places them in the correct texture directories. It also keeps track of installed mods to allow for easy removal.
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
